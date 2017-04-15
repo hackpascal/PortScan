@@ -1,0 +1,14 @@
+*.dll
+*.lib
+*.exe
+
+/.vs
+Debug
+Release
+ipch
+x64
+*.db
+*.opendb
+*.aps
+*.suo
+*.sdb
